@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.osx.deployment_target = '10.8'
   s.ios.deployment_target = '7.0'
 
-  s.dependency 'CocoaLumberjack/Default', '~> 2.2'
+  s.dependency 'CocoaLumberjack/Default', '~> 2.3'
   s.dependency 'Crashlytics'
   
 
